@@ -1,3 +1,3 @@
 # tftp-conf
 
-my atftpd conf
+my atftpd conf, use in kali-setup
